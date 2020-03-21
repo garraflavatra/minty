@@ -12,5 +12,6 @@
     "test": "sass src/custom.scss dist/minty.css"
   },
   "author": "Romein van Buren",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": ["bootstrap", "theme", "css", "scss", "sass", "front-end"]
 }
