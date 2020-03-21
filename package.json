@@ -1,0 +1,16 @@
+{
+  "name": "minty-bootstrap",
+  "version": "1.0.0",
+  "description": "A fresh Bootstrap theme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "devDependencies": {
+    "sass": "^3.6.3"
+  },
+  "scripts": {
+    "test": "sass src/custom.scss dist/minty.css"
+  },
+  "author": "Romein van Buren",
+  "license": "ISC"
+}
