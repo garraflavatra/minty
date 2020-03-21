@@ -1,4 +1,4 @@
-# Minty
+# Minty [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f)](https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade)
 
 > A fresh Bootstrap theme
 
