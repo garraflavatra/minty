@@ -1,4 +1,4 @@
-# Minty [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f)](https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade) [![Demo](https://img.shields.io/badge/demo-here-brightgreen)](https://roman1001.github.io/minty/) [![Docs](https://img.shields.io/badge/docs-here-brightgreen)](https://github.com/Roman1001/minty#minty-)
+# Minty [![npm](https://img.shields.io/npm/v/minty-bootstrap)](https://www.npmjs.com/package/minty-bootstrap) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f)](https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade) [![Demo](https://img.shields.io/badge/demo-here-brightgreen)](https://roman1001.github.io/minty/) [![Docs](https://img.shields.io/badge/docs-here-brightgreen)](https://github.com/Roman1001/minty#minty-)
 
 > A fresh Bootstrap theme
 
