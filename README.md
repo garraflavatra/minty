@@ -4,7 +4,15 @@
 
 ## Installation and usage
 
-Install Minty by downloading it and adding it to your project:
+Install Minty via `npm`:
+
+```shell
+npm install minty-bootstrap
+```
+
+Or, download it [here](https://github.com/Roman1001/minty/releases/latest).
+
+Add it to your project:
 
 ```html
 <link rel="stylesheet" src="/your/path/to/minty.css">
@@ -16,7 +24,7 @@ Or, when you're using `npm`:
 <link rel="stylesheet" src="node_modules/minty-bootstrap/dist/minty.css">
 ```
 
-But Bootstrap's JavaScript isn't included, so you have to install the JS files also:
+Bootstrap's JavaScript isn't included, so you have to install the JS files also:
 
 ```html
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -24,7 +32,7 @@ But Bootstrap's JavaScript isn't included, so you have to install the JS files a
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 ```
 
-You don't have to install Bootstrap also, everything's included in this css file.
+You don't have to install Bootstrap's CSS also, everything's included in this CSS file.
 
 For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.com).
 
