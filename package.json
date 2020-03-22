@@ -2,11 +2,9 @@
   "name": "minty-bootstrap",
   "version": "1.0.1",
   "description": "A fresh Bootstrap theme",
-  "dependencies": {
-    "bootstrap": "^4.4.1"
-  },
   "devDependencies": {
-    "sass": "^3.6.3"
+    "sass": "^1.26.3",
+    "bootstrap": "^4.4.1"
   },
   "scripts": {
     "test": "sass src/custom.scss dist/minty.css"
