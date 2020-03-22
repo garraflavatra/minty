@@ -30,7 +30,7 @@ For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.
 
 ## Contributing
 
-Clone this repo, make changes to `src/custom.scss` and run `npn test`.
+Clone this repo, make changes to `src/custom.scss` and run `npm test`.
 
 ---
 
