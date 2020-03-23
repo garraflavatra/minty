@@ -1,11 +1,15 @@
-# Minty
-
-> A fresh Bootstrap theme
-
-**[Demo](https://roman1001.github.io/minty/)** - **[Docs](https://github.com/Roman1001/minty#minty-)** - **[NPM](https://github.com/Roman1001/minty#minty-)**
-
-[![npm](https://img.shields.io/npm/v/minty-bootstrap)](https://www.npmjs.com/package/minty-bootstrap) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f)](https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade)
-
+<h1 align="center">Minty</h1>
+<blockquote align="center">
+  <p>A fresh Bootstrap theme</p>
+</blockquote>
+<p align="center">
+  <strong>
+    <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a></strong> - <strong><a href="https://github.com/Roman1001/minty#minty-">Docs</a></strong> - <strong><a href="https://github.com/Roman1001/minty#minty-">NPM</a>
+  </strong>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/minty-bootstrap" rel="nofollow"><img src="https://camo.githubusercontent.com/6b4e3b5a0a6e873f0ecb1567790842461e2feedb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6d696e74792d626f6f747374726170" alt="npm" data-canonical-src="https://img.shields.io/npm/v/minty-bootstrap" style="max-width:100%;"></a> <a href="https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade" rel="nofollow"><img src="https://camo.githubusercontent.com/3273961859ac2d0e24ee1f6bedc493deb423500b/68747470733a2f2f6170692e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f6366356232656337356135623463613761646363633331643937646237623966" alt="Codacy Badge" data-canonical-src="https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f" style="max-width:100%;"></a>
+</p>
 
 ## Installation and usage
 
