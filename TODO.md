@@ -1,4 +1,9 @@
 # Todo list for Minty
 
-- [ ] Make demo website
 - [ ] Make 'pretty' main section
+- [ ] Create code of conduct
+- [ ] Create contributing guidelines
+
+## Done
+
+- [x] Make demo website
