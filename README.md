@@ -2,7 +2,7 @@
 <p align="center">A fresh Bootstrap theme</p>
 <p align="center">
   <strong>
-    <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a></strong> - <strong><a href="https://github.com/Roman1001/minty#minty-">Docs</a></strong> - <strong><a href="https://github.com/Roman1001/minty#minty-">NPM</a>
+    <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a></strong> - <strong><a href="https://github.com/Roman1001/minty/blob/master/README.md">Docs</a></strong> - <strong><a href="https://github.com/Roman1001/minty">GitHub</a> - <strong><a href="https://www.npmjs.com/package/minty-bootstrap">NPM</a>
   </strong>
 </p>
 <p align="center">
