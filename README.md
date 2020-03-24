@@ -39,7 +39,7 @@ Or, when you're using `npm`:
 <link rel="stylesheet" src="node_modules/minty-bootstrap/dist/minty.css">
 ```
 
-Bootstrap's JavaScript isn't included, so you have to install the JS files also:
+Bootstrap's JavaScript isn't included, so you have to install the JS files separately:
 
 ```html
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -54,6 +54,23 @@ For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.
 ## Contributing
 
 Clone this repo, make changes to `src/custom.scss` and run `npm start`.
+
+1. Clone this repository:
+   ```shell
+   git clone https://github.com/Roman1001/minty.git
+   ```
+2. Make changes to `src/custom.scss`.
+3. Add your changes:
+   ```shell
+   git add *
+   ```
+4. Commit your changes.
+   ```shell
+   git commit -m
+   ```
+5. Create a pull request.
+
+Thanks for contributing!
 
 ---
 
