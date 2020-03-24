@@ -1,9 +1,7 @@
 <h1 align="center">Minty</h1>
 <p align="center">A fresh Bootstrap theme</p>
 <p align="center">
-  <strong>
-    <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a></strong> - <strong><a href="https://github.com/Roman1001/minty/blob/master/README.md">Docs</a></strong> - <strong><a href="https://github.com/Roman1001/minty">GitHub</a> - <strong><a href="https://www.npmjs.com/package/minty-bootstrap">NPM</a>
-  </strong>
+  <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a> - <a href="https://github.com/Roman1001/minty/blob/master/README.md">Docs</a> - <a href="https://github.com/Roman1001/minty">GitHub</a> - <a href="https://www.npmjs.com/package/minty-bootstrap">NPM</a>
 </p>
 <p align="center">
   <img alt="License" src="https://img.shields.io/npm/l/minty-bootstrap">
