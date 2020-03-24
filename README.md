@@ -39,6 +39,8 @@ Or, when you're using `npm`:
 <link rel="stylesheet" src="node_modules/minty-bootstrap/dist/minty.css">
 ```
 
+You can use the minified version of Minty by replacing `minty.css` to `minty.min.css`.
+
 Bootstrap's JavaScript isn't included, so you have to install the JS files separately:
 
 ```html
@@ -47,7 +49,7 @@ Bootstrap's JavaScript isn't included, so you have to install the JS files separ
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 ```
 
-You don't have to install Bootstrap's CSS also, everything's included in this CSS file.
+You don't have to install Bootstrap's CSS, everything's included in this CSS file.
 
 For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.com).
 
