@@ -19,6 +19,14 @@
 
 ---
 
+## Table of contents
+
+- [Installation and usage](#installation-and-usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
 ## Installation and usage
 
 Install Minty via `npm`:
