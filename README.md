@@ -15,6 +15,8 @@
   <img alt="Color" src="https://img.shields.io/badge/color-mint-%2320c997">
 </p>
 
+![Screenshot of Minty](https://github.com/Roman1001/minty/tree/master/docs/screenshot.png)
+
 ---
 
 ## Installation and usage
