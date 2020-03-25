@@ -8,4 +8,19 @@ $info:                   #33cccc;
 $green:                  #009900;
 $yellow:                 #e6e600;
 $red:                    #ff3300;
+
+// Scrollbar
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
