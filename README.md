@@ -69,20 +69,24 @@ For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.
    ```shell
    git clone https://github.com/Roman1001/minty.git
    ```
-2. Make changes to `src/custom.scss`.
-3. Run
+2. Install dev dependencies:
+   ```
+   npm install --dev
+   ```
+3. Make changes to `src/custom.scss`.
+4. Run
    ```shell
    npm start
    ```
-4. Add your changes:
+5. Add your changes:
    ```shell
    git add *
    ```
-5. Commit your changes.
+6. Commit your changes.
    ```shell
    git commit -m
    ```
-6. Create a pull request.
+7. Create a pull request.
 
 Thanks for contributing!
 
