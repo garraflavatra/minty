@@ -21,6 +21,8 @@
     "css",
     "scss",
     "sass",
-    "front-end"
+    "front-end",
+    "responsive",
+    "mobile"
   ]
 }
