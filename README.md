@@ -4,15 +4,12 @@
   <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a> - <a href="https://github.com/Roman1001/minty/blob/master/README.md">Docs</a> - <a href="https://github.com/Roman1001/minty">GitHub</a> - <a href="https://www.npmjs.com/package/minty-bootstrap">NPM</a>
 </strong></p>
 <p align="center">
-  <img alt="License" src="https://img.shields.io/npm/l/minty-bootstrap">
   <a href="https://www.npmjs.com/package/minty-bootstrap"><img alt="npm" src="https://img.shields.io/npm/v/minty-bootstrap"></a>
   <img alt="GitHub commits since latest release (by date including pre-releases)" src="https://img.shields.io/github/commits-since/roman1001/minty/latest?include_prereleases">
   <a href="https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade"><img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f"></a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/roman1001/minty?label=size">
   <img alt="npm" src="https://img.shields.io/npm/dt/minty-bootstrap?logo=npm">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/roman1001/minty">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/roman1001/minty">
-  <img alt="Color" src="https://img.shields.io/badge/color-mint-%2320c997">
 </p>
 
 ![Screenshot of Minty](https://github.com/Roman1001/minty/raw/master/docs/screenshot.png)
