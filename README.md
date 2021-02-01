@@ -1,7 +1,7 @@
 <h1 align="center">Minty</h1>
 <p align="center">A fresh Bootstrap theme</p>
 <p align="center"><strong>
-  <a href="https://roman1001.github.io/minty/" rel="nofollow">Demo</a> - <a href="https://github.com/Roman1001/minty/blob/master/README.md">Docs</a> - <a href="https://github.com/Roman1001/minty">GitHub</a> - <a href="https://www.npmjs.com/package/minty-bootstrap">NPM</a>
+  <a href="https://garraflavatra.github.io/minty/" rel="nofollow">Demo</a> - <a href="https://github.com/garraflavatra/minty/blob/master/README.md">Docs</a> - <a href="https://github.com/garraflavatra/minty">GitHub</a> - <a href="https://www.npmjs.com/package/minty-bootstrap">NPM</a>
 </strong></p>
 <p align="center">
   <a href="https://www.npmjs.com/package/minty-bootstrap"><img alt="npm" src="https://img.shields.io/npm/v/minty-bootstrap"></a>
@@ -12,7 +12,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/roman1001/minty">
 </p>
 
-![Screenshot of Minty](https://github.com/Roman1001/minty/raw/master/docs/screenshot.png)
+![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/master/docs/screenshot.png)
 
 ---
 
@@ -32,7 +32,7 @@ Install Minty via `npm`:
 npm install minty-bootstrap
 ```
 
-Or, download it [here](https://github.com/Roman1001/minty/releases/latest).
+Or, download it [here](https://github.com/garraflavatra/minty/releases/latest).
 
 Add it to your project:
 
@@ -64,7 +64,7 @@ For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.
 
 1. Clone this repository:
    ```shell
-   git clone https://github.com/Roman1001/minty.git
+   git clone https://github.com/garraflavatra/minty.git
    ```
 2. Install dev dependencies:
    ```
