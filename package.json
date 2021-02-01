@@ -13,7 +13,7 @@
     "compile": "sass src/custom.scss dist/minty.css",
     "minify": "csso dist/minty.css --output dist/minty.min.css"
   },
-  "author": "Romein van Buren",
+  "author": "Romein van Buren (https://garraflavatra.github.io/)",
   "license": "ISC",
   "keywords": [
     "bootstrap",
