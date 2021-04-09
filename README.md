@@ -5,11 +5,11 @@
 </strong></p>
 <p align="center">
   <a href="https://www.npmjs.com/package/minty-bootstrap"><img alt="npm" src="https://img.shields.io/npm/v/minty-bootstrap"></a>
-  <img alt="GitHub commits since latest release (by date including pre-releases)" src="https://img.shields.io/github/commits-since/roman1001/minty/latest?include_prereleases">
+  <img alt="GitHub commits since latest release (by date including pre-releases)" src="https://img.shields.io/github/commits-since/garraflavatra/minty/latest?include_prereleases">
   <a href="https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade"><img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f"></a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/roman1001/minty?label=size">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/garraflavatra/minty?label=size">
   <img alt="npm" src="https://img.shields.io/npm/dt/minty-bootstrap?logo=npm">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/roman1001/minty">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/garraflavatra/minty">
 </p>
 
 ![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/master/docs/screenshot.png)
