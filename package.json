@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "A fresh Bootstrap theme",
   "devDependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.1",
     "csso-cli": "^3.0.0",
     "husky": "^6.0.0",
     "npm-run-all": "^4.1.5",
