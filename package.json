@@ -1,6 +1,6 @@
 {
   "name": "minty-bootstrap",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "A fresh Bootstrap theme",
   "devDependencies": {
     "bootstrap": "^4.4.1",
