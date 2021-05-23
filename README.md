@@ -13,6 +13,13 @@
 > Screenshot:
 > ![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/main/docs/screenshot.png)
 
+## Versions
+
+| Minty version | Bootstrap version | Docs                                                                |
+|---------------|-------------------|---------------------------------------------------------------------|
+| 2.x.x         | 5.x.x             | current                                                             |
+| 1.x.x         | 4.x.x             | [here](https://github.com/garraflavatra/minty/blob/1.1.0/README.md) |
+
 ## Table of contents
 
 - [Installation and usage](#installation-and-usage)
