@@ -11,7 +11,7 @@
 </p>
 
 > Screenshot:
-> ![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/master/docs/screenshot.png)
+> ![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/main/docs/screenshot.png)
 
 ## Table of contents
 
