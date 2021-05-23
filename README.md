@@ -6,23 +6,17 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/minty-bootstrap"><img alt="npm" src="https://img.shields.io/npm/v/minty-bootstrap"></a>
   <img alt="GitHub commits since latest release (by date including pre-releases)" src="https://img.shields.io/github/commits-since/garraflavatra/minty/latest?include_prereleases">
-  <a href="https://www.codacy.com/manual/romein/minty?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Roman1001/minty&amp;utm_campaign=Badge_Grade"><img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/cf5b2ec75a5b4ca7adccc31d97db7b9f"></a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/garraflavatra/minty?label=size">
   <img alt="npm" src="https://img.shields.io/npm/dt/minty-bootstrap?logo=npm">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/garraflavatra/minty">
 </p>
 
-![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/master/docs/screenshot.png)
-
----
+> Screenshot:
+> ![Screenshot of Minty](https://github.com/garraflavatra/minty/raw/master/docs/screenshot.png)
 
 ## Table of contents
 
 - [Installation and usage](#installation-and-usage)
 - [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Installation and usage
 
@@ -70,7 +64,7 @@ For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.
    ```bash
    npm install
    ```
-3. Make changes to `src/custom.scss`.
+3. Make changes to `src/*.scss`.
 4. Run
    ```bash
    npm start
@@ -86,15 +80,3 @@ For usage of Minty, just head over to [the Bootstrap docs](https://getbootstrap.
 7. Create a pull request.
 
 Thanks for contributing!
-
----
-
-## License
-Copyright (c) 2020 Romein van Buren. All Rights Reserved.
-
-ISC LICENSE
-Copyright 2020 Romein van Buren
-
-Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
