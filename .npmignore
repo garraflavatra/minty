@@ -3,3 +3,4 @@ docs/
 .github/
 TODO.md
 .editorconfig
+.husky

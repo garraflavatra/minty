@@ -3,15 +3,17 @@
   "version": "1.0.4",
   "description": "A fresh Bootstrap theme",
   "devDependencies": {
-    "sass": "^1.26.3",
     "bootstrap": "^4.4.1",
+    "csso-cli": "^3.0.0",
+    "husky": "^6.0.0",
     "npm-run-all": "^4.1.5",
-    "csso-cli": "^3.0.0"
+    "sass": "^1.26.3"
   },
   "scripts": {
     "start": "npm-run-all compile minify",
     "compile": "sass src/custom.scss dist/minty.css",
-    "minify": "csso dist/minty.css --output dist/minty.min.css"
+    "minify": "csso dist/minty.css --output dist/minty.min.css",
+    "prepare": "husky install"
   },
   "author": "Romein van Buren (https://garraflavatra.github.io/)",
   "license": "ISC",
