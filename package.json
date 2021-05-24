@@ -19,7 +19,12 @@
     "prepare": "husky install"
   },
   "author": "Romein van Buren (https://garraflavatra.github.io/)",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://minty.romeinvanburen.nl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garraflavatra/minty.git"
+  },
   "keywords": [
     "bootstrap",
     "theme",
